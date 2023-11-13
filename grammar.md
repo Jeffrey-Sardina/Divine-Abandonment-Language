@@ -12,7 +12,7 @@ A native language of the Divine Abandonment world
 Principles
 - speak about things in terms of absence and motion to or away (i.e. "sadness left me" --> I am happy)
 - motion away (and the concept of absence) tends to have a more positive connotation (i.e. words like leave). Motion towards (and the concept of presence) has a more negative intention in general (akin to the English "intrude")
-- common phrases should be in terms of motion (i.e. I like X maybe literally translate as "my desire moves towards X")
+    - common phrases should be in terms of motion (i.e. I like X maybe literally translate as "my desire comes from X")
 - heavy use of colour metaphors to assign meaning (like "blue blooded" in English)
 - use of place names / geography to describe ideas (so "a forest of thoughts" may mean "a lot of thoughts"). Thus, a very strong connection to the land
 
@@ -26,7 +26,7 @@ ai and aei at the end of a word attract stress.
 - This de-animation will also often occur in words said often and quickly -- i.e. pronouns
 
 ### Infixes
-Infixes typically follow the stressed syllable in a word. However, if the stressed syllable is last, they precede it.
+Infixes typically follow the stressed syllable in a word. However, if the stressed syllable is last, they precede it, and if it is first, they follow it. They do not change stress patterns.
 
 They tend to be very short CV constructions.
 
@@ -40,8 +40,8 @@ In the plural, only the present-absent distinction is made (so there is no plura
 
 For personal pronouns, this gives us:
 - I -- dhai
-- you -- kse
-- it (living) -- tse
+- you -- ke
+- it (living) -- te
 - it (present) -- sha
 - it (absent) -- lhii
 - --
@@ -51,74 +51,78 @@ For personal pronouns, this gives us:
 - they (present) -- nra
 - they (absent) --  nhii
 
-"nh" is affixed to the end to form object pronouns. 
+There is not distinction of object / subject in pronouns. Possessives are formed with a suffix (like an infix, but not, since these are all one syllable) "xa", which must agree with the thing being possessed. 
+
+At a literal level, "xa" as an infix means "relating to" or "regarding" -- meaning it acts sort of like a preposition in a case system, actually.
 
 ### Verbs
-Verbs can have any ending, **except** for "e", "a" and "ii", as those are reserved for nouns. However, i proactive, all but a few of the most common (and thus less regular) verbs end in the other vowels: ae, aei, ai, o, and i, which serve as suffixes. Verbs that do not end in a vowel are only ever on 1 syllable, and have no suffix.
+Verbs can end in any vowel other than "e", "ii", and "a", which are reserved for nouns, and adjectives. Their final vowel is called its suffix. Verbs that do not end in a vowel are exceptions to this rule. These only ever on 1 syllable, and have no suffix. Adverbs modifying verbs must agree with this suffix.
 
 In terms of conjugations, they take a few tenses: present, past, and future. They also take the imperative, conditional, subjunctive, and indicative moods and the progressive, near, habitual, and perfect aspects.
 
-Verbs have 2 parts: a root and a suffix. The suffix is just the last syllable, unless the verb has only one syllable, in which case there is no suffix. Any time a conjugation affects a verb, the suffix (if present) is dropped.
+Verbs have 2 parts: a root and a suffix. The suffix is just the last vowel, unless the verb has only one syllable, in which case there is no suffix. Any time a conjugation affects a verb, the suffix (if present) is dropped.
 
 SSuffixes typically change to reflect the subject, and when given the subject pronoun is typically not used.
 
 #### Simple present
 Simple present verbs take a suffix in place of the verb's suffix. Note that the initial "ai" in "(ai)dh" is pronounced exclusively in it's DEANIMATED state as "eh". The vowel following that suffix determines the subject:
-- (ai)dhai -- I
-- (ai)dhe -- you
-- (ai)dhi -- it (living)
-- (ai)dha -- it (present)
-- (ai)dhii -- it (absent)
+- dhai -- I
+- dhe -- you
+- dhi -- it (living)
+- dha -- it (present)
+- dhii -- it (absent)
 
 The plurals are different. In some cases "th" replaces "dh" (when the vowel in the root would repeat). However, for the "living" class, the suffix "(e)dha" is used.
-- (ai)dhae -- we (incl)
-- (ai)dho -- we (excl)
-- (ai)the -- yous
-- (ai)dha -- they (living)
-- (ai)tha -- it (present)
-- (ai)thii -- it (absent)
+- dhae -- we (incl)
+- dho -- we (excl)
+- the -- yous
+- dha -- they (living)
+- tha -- it (present)
+- thii -- it (absent)
 
 #### Simple past (preterite)
 Simple past verbs take a suffix in place of the verb's suffix. Note that the initial "aei" in "(aei)zh" is pronounced exclusively in it's DEANIMATED state as "uh". The vowel following that suffix determines the subject:
-- (aei)zhai -- I
-- (aei)zhe -- you
-- (aei)zhi -- it (living)
-- (aei)zha -- it (present)
-- (aei)zhii -- it (absent)
+- zhai -- I
+- zhe -- you
+- zhi -- it (living)
+- zha -- it (present)
+- zhii -- it (absent)
 
 The plurals are different. In some cases "sh" replaces "zh" (when the vowel in the root would repeat). However, for the "living" class, the suffix "(aei)zha" is used.
-- (aei)zhae -- we (incl)
-- (aei)zho -- we (excl)
-- (aei)she -- yous
-- (aei)zha -- they (living)
-- (aei)sha -- it (present)
-- (aei)shii -- it (absent)
+- zhae -- we (incl)
+- zho -- we (excl)
+- she -- yous
+- zha -- they (living)
+- sha -- it (present)
+- shii -- it (absent)
 
 #### Simple Future
 Simple future verbs take a suffix in place of the verb's suffix.The vowel following that suffix determines the subject:
-- (i)nai -- I
-- (i)ne -- you
-- (i)ni -- it (living)
-- (i)na -- it (present)
-- (i)nii -- it (absent)
+- nai -- I
+- ne -- you
+- ni -- it (living)
+- na -- it (present)
+- nii -- it (absent)
 
 The plurals follow the pattern above as so:
-- (i)nae -- we (incl)
-- (i)no -- we (excl)
-- (i)nhe -- yous
-- (i)na -- they (living)
-- (i)nha -- it (present)
-- (i)nhii -- it (absent)
+- nae -- we (incl)
+- no -- we (excl)
+- nhe -- yous
+- na -- they (living)
+- nha -- it (present)
+- nhii -- it (absent)
 
 #### Aspect and Mood
-Aspect is forming from a regular word using a helping word. That word changes based on what aspects are applied. Note that the subjunctive also words this way, since it applies to words in the past, present, or future.
-- near (only) -- go
-- habitual (only) -- ko
-- progressive (only) -- tsha
-- perfect (only) -- mi
-- near progressive -- tshi 
-- near perfect -- mo
-- subjunctive -- se
+Aspect is forming from a regular word using a helping word that precedes the verb. That word changes based on what aspects are applied, as well as on the type of the verb. They take the same ending as the verb's suffix for agreement.
+
+Note that the subjunctive also words this way, since it applies to words in the past, present, or future.
+- near (only) -- gol-
+- habitual (only) -- kol-
+- progressive (only) -- tshal-
+- perfect (only) -- mil-
+- near progressive -- tshil-
+- near perfect -- mol-
+- subjunctive -- sel-
 
 The conditional is different -- it can only be applied to the past form of a verb. It takes the exact same form as the subjunctive in that case, and when either meaning could apply, the conditional is assumed.
 
@@ -134,24 +138,25 @@ Definite:
 - plural: w-
 
 Indefinite:
-- singular: kth-
+- singular: th-
 - plural: x-
 
 Indefinite specific (in the singular only; no plural exists)
 - singular: same as indefinite plural
+
+When are articles used? They are not used in common speech, except when a special distinction is needed. The definite article is omitted unless the speaker is communicating something that the interlocutor should know (I see the book -- implying they know which books you refer too). The indefinite specific is used when the speaker has a specific something in mind, but excepts the interlocuter does not know about it (I see *indefinite specific* booK -- I see some book you would not know about or see). The indefinite is used when there is uncertainty -- when neither know the exat object of what they are talking about.
+
+As such, these can be seen as "special adjectives* in a way, not exactly articles as English has them.
 
 ### Nouns
 All nouns have 2 parts:
 - a root
 - a suffix. The suffix is always "e", "a" or "ii" in the base form, and matches noun class.
 
-Nouns have a nominative - accusative distinction. For singular nouns, the accusative if formed by added "nh" added to the end of a noun. This means that the language can use VOS or VSO, but the "default" order is more commonly VOS. For plural nouns, there is no nominative-accusative distinction except by context and / or word order.
-
-No other cases exist -- meaning the language makes heavy use of prepositions and prepositional phrases (part of how everything is based on movement)
-
 Nouns take a singular - plural distinction.
-- For "living" nouns, this is easiest -- the "e" changes to "a" or (rarely) "ii" as appropriate. No other changes are made. This can then be transformed into the accusative by adding "nh" as normal.
-- for "present" and "abstract" nouns, "lh" is added as a suffix. This means that forming the accusative is no longer possible, so the nominative-accusative distinction is not made in these plurals. THis is part of why the language's word order is still somewhat strict.
+- For "living" nouns, this is easiest -- the "e" changes to "a" or (rarely) "ii" as appropriate. No other changes are made.
+- for "present" nouns, "i" is added as a suffix, forming a dipthong with the previous letter. That allows /ei/ and /oi/ -- but only as word-endinggs, not anywhere else within a word
+- "absent" nouns that take the plural do so by reducing ii to i. 
 
 ### Adjectives
 "Simple adjectives" have the same structure (i.e. endings) as nouns, and change the same way nouns do grammatically for agreement.
@@ -185,6 +190,6 @@ Question words are the same as relative pronouns; when used in a question, they 
 For all other questions, general question word "lo" precedes the question, which is formed otherwise as a statement.
 
 ### Negation
-Verb negation for 1-syllble verbs is done with the negative particle "who". This is also done if the verb being negated already has an infix (though that is rare -- it is more standard to remove the very infix and say that with a simple adverb instead in common use of the language).
+Verb negation for 1-syllble verbs is done with the negative particle "wha". This is also done if the verb being negated already has an infix (though that is rare -- it is more standard to remove the very infix and say that with a simple adverb instead in common use of the language).
 
-In all other cases, "who" is infixed to the verb being negated using standard infix rules.
+In all other cases, "wha" is infixed to the verb being negated using standard infix rules. Note that it must change for agreement!

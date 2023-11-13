@@ -39,16 +39,18 @@ def gen_word(num_syllables, onset_rate, coda_rate):
         Don't create coda if this is not the only sylable
         """
         is_first_syllable = i == 0
+        is_last_syllable = i == num_syllables - 1
+        is_only_syllable = num_syllables == 1
+
         if not is_first_syllable:
             illegal_onsets |= onsets["clusters"]
-
-        is_only_syllable = num_syllables == 1
-        if not is_only_syllable:
+        
+        if is_last_syllable or not is_only_syllable:
             has_coda = False
         else:
             has_coda = random.random() < coda_rate
 
-        if last_coda == "":
+        if last_coda == "" or is_first_syllable:
             has_onset = True
         else:
             has_onset = random.random() < onset_rate
