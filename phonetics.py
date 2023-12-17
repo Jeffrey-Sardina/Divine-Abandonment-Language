@@ -44,11 +44,11 @@ codas = {
 
 vowels = {
             "all": set(
-                "ae,aei,a,ai,o,e,ii,i".split(",")
+                "ae,a,ai,o,e,ii,i".split(",")
             ),
 
             "dipthong": set(
-                "aei,ai".split(",")
+                "ai".split(",")
             ),
 
             "monopthong": set(

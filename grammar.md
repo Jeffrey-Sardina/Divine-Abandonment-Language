@@ -21,14 +21,34 @@ Principles
 ### Stress
 In the absence of any other applicable rule, stress falls on the penultimate syllable.
 
-ai and aei at the end of a word attract stress.
-- ai and aei that do not receive stress de-animate to "eh" and "uh" respectively. Similarly, if a change makes them receive stress, they gain the dipthong quality
+ai (and aei, in dialectical variations) at the end of a word attract stress.
+- ai (and aei, in dialectical variations) that do not receive stress de-animate to "eh" and "uh" respectively. Similarly, if a change makes them receive stress, they gain the dipthong quality
 - This de-animation will also often occur in words said often and quickly -- i.e. pronouns
 
 ### Infixes
-Infixes typically follow the stressed syllable in a word. However, if the stressed syllable is last, they precede it, and if it is first, they follow it. They do not change stress patterns.
+Infixes typically follow the stressed syllable in a word. However, if the stressed syllable is last, they precede it, and if it is first, they follow it. They do not change stress patterns, and many tend to be very short CV constructions.
 
-They tend to be very short CV constructions.
+Multiple infixation is also possible, and is a very complex process. Since one word may, at any time, desire to have multiple infixes, there are two ways to handle this
+- analytic -- removing the newest / least core infix and using it as a modifier. However, this is usually an unnatural construction characteristic of non-native speech, though it is technically grammatical.
+- synthetic -- this is where the infixes and combined and used together. One could think of this like "abso-very-f*cking-lutely", which never occurs in English but could in Mlaiwhiidii.
+
+How synthetic multiple infixing works depends on various factors, and many dialects vary based on their infix patterns.
+- if a word with an infix has been lexicalised and re-analysed by the current generation of speakers
+- how "relevant" or "core" each infix is to the word
+- the meaning of the infixes (they have an order)
+- word order of the dialect being spoken (here, all is given in the "standard" / most common form)
+
+#### Case 1: After lexicalisation and re-analysis
+Lexialisation and re-analysis if the process of a word being solidified as a disctinct concept, independent of the roots that formed it. This leads to a re-analysis of stress patterns in that word; for example "MLAIwhiidii" (stress on the first syllable, since "whi-" is an infix) would be lexiacalised to "MlaiWHIIdii" with so-called "regular" penultimate stress.
+
+In many cases this will change meaning. For example, "MlaiWHIIdii" could be lexicalised as the name for the language, but "MLAIwhiidii" be the word for noise, chatter, or ambient talking (i.e. absence of silence). In fact, this is exactly how these words work, and some native speakers may not even consciously realise how related they are.
+
+In this case, new infixes can be added as normal - -since the word was re-analysed, the original infix can be ignored, as native speakers no longer see it as an infix.
+
+#### Case 2: No Re-analysis
+In this case, we need a set of strong rules for derivational morphology. More or less, this means that we need to be able to tell how to combine infixes, and in what order.
+
+TODO
 
 ### Pronouns
 Pronouns do not make a gender distinction, but do make a *number* distinction in singular / plural. An inclusion / exclusion distinction is made in the first person (only). Third person pronouns belong to one of X classes:
@@ -56,13 +76,29 @@ There is not distinction of object / subject in pronouns. Possessives are formed
 At a literal level, "xa" as an infix means "relating to" or "regarding" -- meaning it acts sort of like a preposition in a case system, actually.
 
 ### Verbs
-Verbs can end in any vowel other than "e", "ii", and "a", which are reserved for nouns, and adjectives. Their final vowel is called its suffix. Verbs that do not end in a vowel are exceptions to this rule. These only ever on 1 syllable, and have no suffix. Adverbs modifying verbs must agree with this suffix.
+The root for of verbs must end in "i", "o", "ae", "ae", or "ai" (i.e. not ii, e, or a, which are for nouns and adjectives), and the consonant preceding them must be a valid coda consonant.
+
+Their final consonant and vowel is called its suffix. Verbs that do not end in a vowel are exceptions to this rule. These only ever on 1 syllable, and have no suffix. Adverbs modifying verbs must agree with this suffix.
 
 In terms of conjugations, they take a few tenses: present, past, and future. They also take the imperative, conditional, subjunctive, and indicative moods and the progressive, near, habitual, and perfect aspects.
 
-Verbs have 2 parts: a root and a suffix. The suffix is just the last vowel, unless the verb has only one syllable, in which case there is no suffix. Any time a conjugation affects a verb, the suffix (if present) is dropped.
+Verbs have 2 parts: a root and a suffix. The suffix is just the last vowel, unless the verb has only one syllable, in which case there is no suffix. If agreement is required, it is with the suffix of the citation for of the verb.
 
-SSuffixes typically change to reflect the subject, and when given the subject pronoun is typically not used.
+Suffixes typically change to reflect the subject, and when given the subject pronoun is typically not used. 
+
+### Elision and Mutation
+The verb suffix undergoes elision and mutation in most cases.
+
+**If the suffix's consonant is a valid coda consonant** (this is always the case, except in very rare exceptions) then the vowel following it is dropped (elided). For example, "nolhi" (to walk) could become "nolh- + dhai" (for I walk). In this case, the voicing of the suffix **must** agree with that of the root consonant -- so nolh- + dhai becomes nolhthai.
+
+**HOWEVER**, if this would produce a valid plural form and create ambiguity, then the the value of the voicing of the stem consonant is flipped; i.e. for "you walk" "nolh + dhe" is "noldhe", and "nolhthe" is reserved for "yous walk". We note that some "codas" are permitted here ("l" from "lh", "n" from "nh" and "zh" from "sh") that would normally not be allowed. Howeveer, they are permitted here, but can never be the final sound of a word. 
+
+For reference, the singular cases that have this ambiguity, and therefore take this irregular formation, are
+- you
+- it (present)
+- it (absent)
+
+If the coda consonant is of the same quality (minus voicing / no voicing) as that of the suffix that is to be appended, then it is also dropped. So "nghosha" (to XXX) in the past would be "nghosha + zhai" --> nghozhai for "I XXX'd". 
 
 #### Simple present
 Simple present verbs take a suffix in place of the verb's suffix. Note that the initial "ai" in "(ai)dh" is pronounced exclusively in it's DEANIMATED state as "eh". The vowel following that suffix determines the subject:
@@ -81,14 +117,14 @@ The plurals are different. In some cases "th" replaces "dh" (when the vowel in t
 - thii -- it (absent)
 
 #### Simple past (preterite)
-Simple past verbs take a suffix in place of the verb's suffix. Note that the initial "aei" in "(aei)zh" is pronounced exclusively in it's DEANIMATED state as "uh". The vowel following that suffix determines the subject:
+Simple past verbs take a suffix in place of the verb's suffix. The vowel following that suffix determines the subject:
 - zhai -- I
 - zhe -- you
 - zhi -- it (living)
 - zha -- it (present)
 - zhii -- it (absent)
 
-The plurals are different. In some cases "sh" replaces "zh" (when the vowel in the root would repeat). However, for the "living" class, the suffix "(aei)zha" is used.
+The plurals are different. In some cases "sh" replaces "zh" (when the vowel in the root would repeat). However, for the "living" class, the suffix "zha" is used.
 - zhae -- we (incl)
 - zho -- we (excl)
 - she -- yous
@@ -113,38 +149,62 @@ The plurals follow the pattern above as so:
 - nhii -- it (absent)
 
 #### Aspect and Mood
-Aspect is forming from a regular word using a helping word that precedes the verb. That word changes based on what aspects are applied, as well as on the type of the verb. They take the same ending as the verb's suffix for agreement.
+<!-- Aspect is forming from a regular word using a helping word that precedes the verb. That word changes based on what aspects are applied, as well as on the type of the verb. They take the same ending as the verb's suffix for agreement. -->
 
-Note that the subjunctive also words this way, since it applies to words in the past, present, or future.
+<!-- Note that the subjunctive also works this way, since it applies to words in the past, present, or future.
 - near (only) -- gol-
 - habitual (only) -- kol-
 - progressive (only) -- tshal-
 - perfect (only) -- mil-
 - near progressive -- tshil-
 - near perfect -- mol-
-- subjunctive -- sel-
+- subjunctive -- sel- -->
+
+Aspect is formed using an infix; it is generally, but not always, before the suffix, as it followed normal infix rules. That word changes based on what aspects are applied, as well as on the type of the verb. They take the same ending as the verb's suffix for agreement. For the purpose of voicing, it is inserted *after* the base tense is formed, so voicing changes first as per the rules for the verb tense.
+
+Note that the subjunctive also works this way, since it applies to words in the past, present, or future.
+- near (only) -- g-
+- habitual (only) -- k-
+- progressive (only) -- tsh-
+- perfect (only) -- m-
+- near progressive -- ??
+- near perfect -- ??
+- subjunctive -- s-
 
 The conditional is different -- it can only be applied to the past form of a verb. It takes the exact same form as the subjunctive in that case, and when either meaning could apply, the conditional is assumed.
 
 This word goes directly before the word (if it cannot infix) or else infixes.
 
+#### Common verb Modifications
+There are some modifications commonly applied to verbs. In general, **those that change a verb to anther part of speech change the verb root**; all others tend to be infixes to the verb.
+
+**agency (i.e. the "-er" suffix)**
+This turns a verb into a noun that describes a person or thing that does the action given by the verb. This one is quite simple -- the verb suffix vowel is replaced with "ii", "e", or "a" as appropriate. 
+
+
 ### Articles
-We have definite, indefinite, and indefinite specific articles. These change form based on the noun class, just like pronouns. Their ending is determined by the class -- "e" for living (singular only), "a" for present, "ii" for absent.
+We have definite, indefinite, and indefinite specific articles. These change form based on the noun class, just like pronouns. Their ending is determined by the class -- "e" for living (singular only), "a" for present, "ii" for absent. These are generally infixed (see above).
 
 The stems for each of these forms are given below
 
 Definite:
-- singular: l-
-- plural: w-
+- singular: la
+- plural: wa
 
 Indefinite:
-- singular: th-
-- plural: x-
+- singular: mha
+- plural: xa
 
 Indefinite specific (in the singular only; no plural exists)
 - singular: same as indefinite plural
 
-When are articles used? They are not used in common speech, except when a special distinction is needed. The definite article is omitted unless the speaker is communicating something that the interlocutor should know (I see the book -- implying they know which books you refer too). The indefinite specific is used when the speaker has a specific something in mind, but excepts the interlocuter does not know about it (I see *indefinite specific* booK -- I see some book you would not know about or see). The indefinite is used when there is uncertainty -- when neither know the exat object of what they are talking about.
+When are articles used? They are not used in common speech, except when a special distinction is needed. 
+
+The definite article is omitted unless the speaker is communicating something that the interlocutor should know (I see the book -- implying they know which books you refer too). When used this way, it often means implies singular existence or definite existence like "one" in English -- they see the sky --> they see the (one and only) sky. 
+
+The indefinite specific is used when the speaker has a specific something in mind, but excepts the interlocuter does not know about it (I see *indefinite specific* book -- I see some book you would not know about or see).
+
+The indefinite is used when there is uncertainty -- when neither know the exact object of what they are talking about.
 
 As such, these can be seen as "special adjectives* in a way, not exactly articles as English has them.
 
@@ -159,7 +219,7 @@ Nouns take a singular - plural distinction.
 - "absent" nouns that take the plural do so by reducing ii to i. 
 
 ### Adjectives
-"Simple adjectives" have the same structure (i.e. endings) as nouns, and change the same way nouns do grammatically for agreement.
+"Simple adjectives" have the same structure (i.e. endings) as nouns, and change the same way nouns do grammatically for agreement with class. Note that agreement with number is not done during infixing.
 
 There is a fixed set of "infix adjectives" that instead operate on nouns as infixes after the stressed syllable. After the infix operation, the formerly stressed syllable **still receives stress**, which allows easily distinguishing an infixed word from a root. This area of the language is not very productive -- few words tend to be added or removed from it.
 
@@ -174,14 +234,14 @@ There is also a fixed set of "infix adverbs" that can infix into verbs and simpl
 
 ### Relative pronouns
 Relative pronouns offset relative clauses. These have a root, and their suffix determine their class and number exactly as is they were nouns.
-- ainh-
-- edh-
-- aedh-
+- nhai-
+- dae-
+- tho-
 
 ### Demonstrative pronouns
 Demonstratives pronouns take 3 forms: this (near speaker), that (nor listener), and yon (near neither). These have a root, and their suffix determine their class and number exactly as is they were nouns.
-- This: iinh-
-- That: im-
+- This: nhi-
+- That: mi-
 - Yon: silh-
 
 ### Questions
@@ -192,4 +252,7 @@ For all other questions, general question word "lo" precedes the question, which
 ### Negation
 Verb negation for 1-syllble verbs is done with the negative particle "wha". This is also done if the verb being negated already has an infix (though that is rare -- it is more standard to remove the very infix and say that with a simple adverb instead in common use of the language).
 
-In all other cases, "wha" is infixed to the verb being negated using standard infix rules. Note that it must change for agreement!
+In all other cases, "wha" is infixed to the verb being negated using standard infix rules. Note that it must change for agreement*!
+
+*Note that agreement is different here. "wha" has the power to change the class of a noun -- such as from present to absent, or from living to present or absent. **This is most common with words for concepts that form other words for concepts,** and exceptions may exist for grammatical distinction, in fossilised phrases, or for other reasons.
+
