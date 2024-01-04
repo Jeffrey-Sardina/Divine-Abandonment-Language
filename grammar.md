@@ -1,7 +1,7 @@
 # Grammar
 
 ## Word Order
-VOS word order. We'll go with the "default" secondary word orders for a VOI primary word order; that is
+VOS word order. We'll go with the "default" secondary word orders for a VOS primary word order; that is
 - adjective - noun
 - relative clause - noun
 - noun - preposition
@@ -28,8 +28,8 @@ ai (and aei, in dialectical variations) at the end of a word attract stress.
 ### Infixes
 Infixes typically follow the stressed syllable in a word. However, if the stressed syllable is last, they precede it, and if it is first, they follow it. They do not change stress patterns, and many tend to be very short CV constructions.
 
-Multiple infixation is also possible, and is a very complex process. Since one word may, at any time, desire to have multiple infixes, there are two ways to handle this
-- analytic -- removing the newest / least core infix and using it as a modifier. However, this is usually an unnatural construction characteristic of non-native speech, though it is technically grammatical.
+Multiple infixation is also possible, and is a more complex process. Since one word may, at any time, desire to have multiple infixes, there are two ways to handle this
+- analytic -- removing the newest / least core infix and using it as a modifier. However, this is often an unnatural construction characteristic of non-native speech, though it is technically grammatical.
 - synthetic -- this is where the infixes and combined and used together. One could think of this like "abso-very-f*cking-lutely", which never occurs in English but could in Mlaiwhiidii.
 
 How synthetic multiple infixing works depends on various factors, and many dialects vary based on their infix patterns.
@@ -46,9 +46,18 @@ In many cases this will change meaning. For example, "MlaiWHIIdii" could be lexi
 In this case, new infixes can be added as normal - -since the word was re-analysed, the original infix can be ignored, as native speakers no longer see it as an infix.
 
 #### Case 2: No Re-analysis
-In this case, we need a set of strong rules for derivational morphology. More or less, this means that we need to be able to tell how to combine infixes, and in what order.
+In this case, there is an order of infixes based on type.
 
-TODO
+For nouns, case markers go first. These are followed by modifying adjectives (if present), and then by articles, and finally by negation. 
+
+For verbs, tense, aspect, and mood prefixes go first. These are following by modifying adverbs (if present) and negation (if present).
+
+For adjectives and adverbs, modifiers go first. These are followed by negation (if present).
+
+#### Infixes and Pronunciation
+Infixes generally do not change stress when under 3 are used. However, when 3 or more are used, the infix is re-analysed as a distinct word, and it gains secondary stress on the penultimate syllable of the infix syllables. If 6 or more syllables are infixes, then secondary stress is placed on the penultimate and second infix syllable.
+
+As a general rule, only up to 2 modifiers can infix in a word, and these are the ones considered most core to the description / meaning of the word overall. Others are typically left to be used as separate words. 
 
 ### Pronouns
 Pronouns do not make a gender distinction, but do make a *number* distinction in singular / plural. An inclusion / exclusion distinction is made in the first person (only). Third person pronouns belong to one of X classes:
@@ -64,7 +73,7 @@ For personal pronouns, this gives us:
 - it (living) -- te
 - it (present) -- sha
 - it (absent) -- lhii
-- --
+---
 - We (incl) -- mlae
 - We (excl) -- so
 - yous -- rii
@@ -149,17 +158,6 @@ The plurals follow the pattern above as so:
 - nhii -- it (absent)
 
 #### Aspect and Mood
-<!-- Aspect is forming from a regular word using a helping word that precedes the verb. That word changes based on what aspects are applied, as well as on the type of the verb. They take the same ending as the verb's suffix for agreement. -->
-
-<!-- Note that the subjunctive also works this way, since it applies to words in the past, present, or future.
-- near (only) -- gol-
-- habitual (only) -- kol-
-- progressive (only) -- tshal-
-- perfect (only) -- mil-
-- near progressive -- tshil-
-- near perfect -- mol-
-- subjunctive -- sel- -->
-
 Aspect is formed using an infix; it is generally, but not always, before the suffix, as it followed normal infix rules. That word changes based on what aspects are applied, as well as on the type of the verb. They take the same ending as the verb's suffix for agreement. For the purpose of voicing, it is inserted *after* the base tense is formed, so voicing changes first as per the rules for the verb tense.
 
 Note that the subjunctive also works this way, since it applies to words in the past, present, or future.
@@ -167,8 +165,8 @@ Note that the subjunctive also works this way, since it applies to words in the 
 - habitual (only) -- k-
 - progressive (only) -- tsh-
 - perfect (only) -- m-
-- near progressive -- ??
-- near perfect -- ??
+- near progressive -- nh-
+- near perfect -- sh-
 - subjunctive -- s-
 
 The conditional is different -- it can only be applied to the past form of a verb. It takes the exact same form as the subjunctive in that case, and when either meaning could apply, the conditional is assumed.
@@ -198,7 +196,7 @@ Indefinite:
 Indefinite specific (in the singular only; no plural exists)
 - singular: same as indefinite plural
 
-When are articles used? They are not used in common speech, except when a special distinction is needed. 
+When are articles used? They optional and not necessarily used in common speech, except when a special distinction is needed. 
 
 The definite article is omitted unless the speaker is communicating something that the interlocutor should know (I see the book -- implying they know which books you refer too). When used this way, it often means implies singular existence or definite existence like "one" in English -- they see the sky --> they see the (one and only) sky. 
 
@@ -216,16 +214,36 @@ All nouns have 2 parts:
 Nouns take a singular - plural distinction.
 - For "living" nouns, this is easiest -- the "e" changes to "a" or (rarely) "ii" as appropriate. No other changes are made.
 - for "present" nouns, "i" is added as a suffix, forming a dipthong with the previous letter. That allows /ei/ and /oi/ -- but only as word-endinggs, not anywhere else within a word
-- "absent" nouns that take the plural do so by reducing ii to i. 
+- "absent" nouns that take the plural do so by reducing ii to i.
+
+Nouns also fall into several cases. These "cases" are formed by infixing prepositions:
+- nominative-accusative -- used for the subject and object of a sentence. Also used for thing being directly addressed.
+    - blank marking
+- genitive -- used for statements of possession, composition, and conceptual (but not physical) origin. Also used to represent the concept of a noun being placed on top of another or "based on" it.
+    - infix "sai"
+- locative -- used for containment and location / proximity in time or space. Also used to convey the sense of being below.
+    - infix "gho"
+- instrumentative-ablative -- used when the noun is used as an instrument for a goal (i.e. fighting with-swords). Also used to convey purpose in an ablative sense (i.e. fighting for freedom)
+    - infix "nghae"
+- accompanative -- used for physical accompaniment in time or space. Also used to indicate motion towards a concept or place in space or time
+    - infix "kthii"
+- from-ative -- used to indicate motion away from a concept or place in space or time
+    - infix "thwho"
+- through-ative -- used to indicate motion through or between from a concept or place in space or time. Also used to convey action or motion during a period of time.
+    - infix "sno"
+- before-ative -- used to indicate presence in front of (in space) or before (in time)
+    - infix "nlae"
+- after-ative -- used to indicate presence behind (in space) or after (in time)
+    - infix "zhii"
 
 ### Adjectives
-"Simple adjectives" have the same structure (i.e. endings) as nouns, and change the same way nouns do grammatically for agreement with class. Note that agreement with number is not done during infixing.
+"Simple adjectives" have the same structure (i.e. endings) as nouns, and change the same way nouns do grammatically for agreement with class, except that they do not take case infixes. Note that agreement with number is not done during infixing either.
 
 There is a fixed set of "infix adjectives" that instead operate on nouns as infixes after the stressed syllable. After the infix operation, the formerly stressed syllable **still receives stress**, which allows easily distinguishing an infixed word from a root. This area of the language is not very productive -- few words tend to be added or removed from it.
 
 ### Adverbs formed from Adjectives
 "Simple adverbs". These are formed by
-- removing of the final vowel, if the word would end on a valid consonant (lh, dh, m, nh, or sh) and has at least 2 sylables. The stress does not move when this happens.
+- removing of the final vowel, if the word would end on a valid consonant (lh, dh, m, nh, or sh) and has at least 2 syllables. The stress does not move when this happens.
 - otherwise, the stress moves to the final syllable to indicate that the word is now an adverb. This stress change is not written, but remains implicit.
 
 These and tend to go directly before the thing they modify.
@@ -234,15 +252,13 @@ There is also a fixed set of "infix adverbs" that can infix into verbs and simpl
 
 ### Relative pronouns
 Relative pronouns offset relative clauses. These have a root, and their suffix determine their class and number exactly as is they were nouns.
-- nhai-
-- dae-
-- tho-
+- kx- (i.e. kxa, kxii, etc)
 
 ### Demonstrative pronouns
 Demonstratives pronouns take 3 forms: this (near speaker), that (nor listener), and yon (near neither). These have a root, and their suffix determine their class and number exactly as is they were nouns.
-- This: nhi-
-- That: mi-
-- Yon: silh-
+- This: nh- (i.e. nha, nhii, etc)
+- That: m- (i.e. ma, mii, etc)
+- Yon: silh- (i.e. silha, silhii, etc)
 
 ### Questions
 Question words are the same as relative pronouns; when used in a question, they must come first. These serve to mean "what" / "who", and the word that followed determine what is being asked (i.e. "what way" for how, etc).
