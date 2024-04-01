@@ -45,6 +45,14 @@ Give all adjectives and infixes in the present form (-a)
 
 **ksota** 1. (n). Plain, plains. 2. A vast, generally flat and grassy region of land.
 
+**nailha** 1. (n) wolf. 2. (n) moon.
+
+**nosha** 1. (n) water. 2. (n) reflection, opposite.
+
+**dhaida** 1. (n) (as a meterial) stone. 
+
+**loma** 1. (n) east. (adj) eastern.
+
 
 ## Verbs
 **soli** 1. (v) to come from.
@@ -54,8 +62,6 @@ Give all adjectives and infixes in the present form (-a)
 **nolhi** 1. (v) to walk.
 
 **nonhai** 1. (v) to wander. 
-
-**nghosha** 1. (v) to 
 
 **lhenhai** 1. (v) to speak or communicate.
 *Usage*. Note that this is used secondarily to "Nrinhtha XXX tsedai" which literally means "the words left XXX".
