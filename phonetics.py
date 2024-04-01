@@ -1,3 +1,12 @@
+'''
+?? I am unsure why r* remains here
+
+r is an allophone for d, and written using the Mlaiwhiidii "d" in their script.
+It is only distinct when in a cluster (i.e. nr is written as "nd" in the script),
+and otherwise is pronounced as an r, a d, or an in-between (such as a tapped or
+voiced fricative r) depending on dialect).
+'''
+
 onsets = {
             "all": set(
                 "s,z,th,dh,lh,l,x,gh, \

@@ -20,7 +20,7 @@ Now that we have a basic grammatic structure, we can say something we like? Let'
 --> (soldha) (snoralh) (dhaixa nga)           | put "snora" in plural
 --> soldha snorai dhaixaanga                  | complete sentence
 
-This means "My liking comes from books", which is how we express "I like books". To be even more literal, this means "Red liking comes from books".
+This means "My liking comes from books", which is how we express "I like books".
 
 What about the length -- should we be worried?
 - we have 7 syllables

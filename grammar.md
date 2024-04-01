@@ -26,7 +26,7 @@ ai (and aei, in dialectical variations) at the end of a word attract stress.
 - This de-animation will also often occur in words said often and quickly -- i.e. pronouns
 
 ### Infixes
-Infixes typically follow the stressed syllable in a word. However, if the stressed syllable is last, they precede it, and if it is first, they follow it. They do not change stress patterns, and many tend to be very short CV constructions.
+Infixes typically follow the stressed syllable in a word. However, if the stressed syllable is last, they precede it, and if it is first, they follow it. They do not change stress patterns, and many tend to be very short CV constructions. In a single-syllable word, they typically go after the word as a suffix.
 
 Multiple infixation is also possible, and is a more complex process. Since one word may, at any time, desire to have multiple infixes, there are two ways to handle this
 - analytic -- removing the newest / least core infix and using it as a modifier. However, this is often an unnatural construction characteristic of non-native speech, though it is technically grammatical.
@@ -39,11 +39,11 @@ How synthetic multiple infixing works depends on various factors, and many diale
 - word order of the dialect being spoken (here, all is given in the "standard" / most common form)
 
 #### Case 1: After lexicalisation and re-analysis
-Lexialisation and re-analysis if the process of a word being solidified as a disctinct concept, independent of the roots that formed it. This leads to a re-analysis of stress patterns in that word; for example "MLAIwhiidii" (stress on the first syllable, since "whi-" is an infix) would be lexiacalised to "MlaiWHIIdii" with so-called "regular" penultimate stress.
+Lexialisation and re-analysis if the process of a word being solidified as a distinct concept, independent of the roots that formed it. This leads to a re-analysis of stress patterns in that word; for example "MLAIwhiidii" (stress on the first syllable, since "whi-" is an infix) would be lexiacalised to "MlaiWHIIdii" with so-called "regular" penultimate stress.
 
 In many cases this will change meaning. For example, "MlaiWHIIdii" could be lexicalised as the name for the language, but "MLAIwhiidii" be the word for noise, chatter, or ambient talking (i.e. absence of silence). In fact, this is exactly how these words work, and some native speakers may not even consciously realise how related they are.
 
-In this case, new infixes can be added as normal - -since the word was re-analysed, the original infix can be ignored, as native speakers no longer see it as an infix.
+In this case, new infixes can be added as normal -- since the word was re-analysed, the original infix can be ignored, as native speakers no longer see it as an infix.
 
 #### Case 2: No Re-analysis
 In this case, there is an order of infixes based on type.
@@ -57,7 +57,7 @@ For adjectives and adverbs, modifiers go first. These are followed by negation (
 #### Infixes and Pronunciation
 Infixes generally do not change stress when under 3 are used. However, when 3 or more are used, the infix is re-analysed as a distinct word, and it gains secondary stress on the penultimate syllable of the infix syllables. If 6 or more syllables are infixes, then secondary stress is placed on the penultimate and second infix syllable.
 
-As a general rule, only up to 2 modifiers can infix in a word, and these are the ones considered most core to the description / meaning of the word overall. Others are typically left to be used as separate words. 
+?? As a general rule, only up to 2 modifiers can infix in a word, and these are the ones considered most core to the description / meaning of the word overall. Others are typically left to be used as separate words. 
 
 ### Pronouns
 Pronouns do not make a gender distinction, but do make a *number* distinction in singular / plural. An inclusion / exclusion distinction is made in the first person (only). Third person pronouns belong to one of X classes:
@@ -91,8 +91,6 @@ Their final consonant and vowel is called its suffix. Verbs that do not end in a
 
 In terms of conjugations, they take a few tenses: present, past, and future. They also take the imperative, conditional, subjunctive, and indicative moods and the progressive, near, habitual, and perfect aspects.
 
-Verbs have 2 parts: a root and a suffix. The suffix is just the last vowel, unless the verb has only one syllable, in which case there is no suffix. If agreement is required, it is with the suffix of the citation for of the verb.
-
 Suffixes typically change to reflect the subject, and when given the subject pronoun is typically not used. 
 
 ### Elision and Mutation
@@ -100,7 +98,7 @@ The verb suffix undergoes elision and mutation in most cases.
 
 **If the suffix's consonant is a valid coda consonant** (this is always the case, except in very rare exceptions) then the vowel following it is dropped (elided). For example, "nolhi" (to walk) could become "nolh- + dhai" (for I walk). In this case, the voicing of the suffix **must** agree with that of the root consonant -- so nolh- + dhai becomes nolhthai.
 
-**HOWEVER**, if this would produce a valid plural form and create ambiguity, then the the value of the voicing of the stem consonant is flipped; i.e. for "you walk" "nolh + dhe" is "noldhe", and "nolhthe" is reserved for "yous walk". We note that some "codas" are permitted here ("l" from "lh", "n" from "nh" and "zh" from "sh") that would normally not be allowed. Howeveer, they are permitted here, but can never be the final sound of a word. 
+**HOWEVER**, if this would produce a valid plural form and create ambiguity, then the the value of the voicing of the stem consonant is flipped; i.e. for "you walk" "nolh + dhe" is "noldhe", and "nolhthe" is reserved for "yous walk". We note that some "codas" are permitted here ("l" from "lh", "n" from "nh" and "zh" from "sh") that would normally not be allowed. However, they are permitted here, but can never be the final sound of a word. 
 
 For reference, the singular cases that have this ambiguity, and therefore take this irregular formation, are
 - you
@@ -121,7 +119,7 @@ The plurals are different. In some cases "th" replaces "dh" (when the vowel in t
 - dhae -- we (incl)
 - dho -- we (excl)
 - the -- yous
-- dha -- they (living)
+- (e)dha -- they (living)
 - tha -- it (present)
 - thii -- it (absent)
 
@@ -183,7 +181,7 @@ This turns a verb into a noun that describes a person or thing that does the act
 ### Articles
 We have definite, indefinite, and indefinite specific articles. These change form based on the noun class, just like pronouns. Their ending is determined by the class -- "e" for living (singular only), "a" for present, "ii" for absent. These are generally infixed (see above).
 
-The stems for each of these forms are given below
+The stems for each of these forms are given below (note hat the citation form of nouns and adjs always ends in "a", as here)
 
 Definite:
 - singular: la
@@ -194,7 +192,7 @@ Indefinite:
 - plural: xa
 
 Indefinite specific (in the singular only; no plural exists)
-- singular: same as indefinite plural
+- singular: same as indefinite plural (xa)
 
 When are articles used? They optional and not necessarily used in common speech, except when a special distinction is needed. 
 
