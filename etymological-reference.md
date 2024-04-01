@@ -89,7 +89,7 @@ Note: Mlaiwhiidii is lexicalised and takes stress on the second syllable as "nor
 
 **New Words:**
 
-**mlaida** 1. (n) silence. (a present noun, noise is the absence of silence)
+**mlaida** 1. (n) silence. (a present noun, noise is the absence of silence, which exists)
 
 
 ### 5) **English**     -- **translation**
@@ -185,7 +185,6 @@ zhawhiidii -- light
 zhawhada -- absence of light (shadow, not dark)
 
 
-
 **New Words:**
 
 **ta** 1. (n) the number two.
@@ -196,3 +195,37 @@ zhawhada -- absence of light (shadow, not dark)
 
 **tashai** 1. (v) to be the same, identical,.
 *Ety*. Re-analysis of "tasha" as an "er" noun, and then reconstructing its verb forn.
+
+
+### 8) **English** -- **translation**
+    Moonwalker     -- Nainolhilhe (name)
+    of the Moon    -- Naisailhe (name)
+
+nolhi - to walk
+
+nailha - wolf, moon
+
+Nainolhilhe -- Moonwalker (name)
+Naisailhe -- of the Moon (name)
+
+**New Words:**
+
+**nailha** 1. (n) wolf. 2. (n) moon.
+
+Note: this assumes you can infix a verb into a noun. I am unsure if this should be in Standard Mlaiwhiiidii or just a dialectical / non-standard form, so take this with a grain of salt.
+
+
+### 8) **English**  -- **translation**
+    City            -- dhaithada (thinking stone)
+    Village         -- dathara (thinking wood)
+    Druidic village -- whiithala (thinking, living wood)
+
+NOTE: as said in the Sapphire Glen, maybe not standard
+
+**New Words:**
+
+**dhaida** 1. (n) (as a meterial) stone. 
+
+**whiila** 1. (n) tree. 2. (n) wood, bark (on a living tree).
+
+**dara** 1. (n) wood (cut from a felled tree).

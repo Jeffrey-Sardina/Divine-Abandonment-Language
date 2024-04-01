@@ -62,8 +62,8 @@ Infixes generally do not change stress when under 3 are used. However, when 3 or
 ### Pronouns
 Pronouns do not make a gender distinction, but do make a *number* distinction in singular / plural. An inclusion / exclusion distinction is made in the first person (only). Third person pronouns belong to one of X classes:
 - living things (including plants, animals, etc. Ex tree, fish, elf)
-- present things (i.e. positive-presence words and some concrete nouns. Ex Rock, valley)
-- absent things (i.e. words implying absence and abstract nouns. Ex god, happiness, darkness)
+- present things (i.e. positive-presence words and some concrete nouns. Ex Rock, valley. Note that in many cases, things like darkness, silence emptiness, are present, not absent.)
+- absent things (i.e. words implying absence of what would be labelled as presence,. Ex light, noise, space / full-ness)
 
 In the plural, only the present-absent distinction is made (so there is no plural of living things -- those would generally be lumped into "present")
 
@@ -219,13 +219,14 @@ Nouns also fall into several cases. These "cases" are formed by infixing preposi
     - blank marking
 - genitive -- used for statements of possession, composition, and conceptual (but not physical) origin. Also used to represent the concept of a noun being placed on top of another or "based on" it.
     - infix "sai"
+    - alternately, many common, small words can infix into other words as a genitive. This is only done for words with 2 of fewer syllables, and the are placed as a modifier before all other modifiers. Only one genitive can be infixed in this way.
 - locative -- used for containment and location / proximity in time or space. Also used to convey the sense of being below.
     - infix "gho"
 - instrumentative-ablative -- used when the noun is used as an instrument for a goal (i.e. fighting with-swords). Also used to convey purpose in an ablative sense (i.e. fighting for freedom)
     - infix "nghae"
 - accompanative -- used for physical accompaniment in time or space. Also used to indicate motion towards a concept or place in space or time
     - infix "kthii"
-- from-ative -- used to indicate motion away from a concept or place in space or time
+- from-ative -- used to indicate motion away from a concept or place in space or time. Can imply aversion
     - infix "thwho"
 - through-ative -- used to indicate motion through or between from a concept or place in space or time. Also used to convey action or motion during a period of time.
     - infix "sno"
