@@ -101,7 +101,7 @@ Give all adjectives and infixes in the present form (-a)
 
 **mhii** 1. (n, adj) blue.
 
-**snhii** 1. (n, adj) purple.
+**snhii** 1. (n, adj) purple, violet.
 
 **nlii** 1. (n, adj) black. 2. dark, occult.
 
@@ -109,4 +109,4 @@ Give all adjectives and infixes in the present form (-a)
 
 **lii** 1. (n, adj) grey. 2. lesser.
 
-**tshii** 1. (n, adj) brown.
+**tshii** 1. (n, adj) brown. 2. Dark purple, Indigo. 3. A dirty or composite colour. 4 (n). Something that cannot be known.
