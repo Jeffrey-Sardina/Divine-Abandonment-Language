@@ -174,7 +174,9 @@ Za lhaekithsha mlaiwhiiliidii thonha kae nrikinhsha tshaithara tseshadai. 20
 ### 7) **English** -- **translation**
 You can't cast a shadow without some light.
 
-Solhkatha zhada zhawhiidii kae zhawhada
+Solhkatha zhada kae zhawhiidii zhawhada
+
+?? does zhawhada need a from-ative case marker?
 
 Lit. "Light and shadow both come from the dark" / have the same source. 
 
