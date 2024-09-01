@@ -8,11 +8,13 @@ Give all adjectives and infixes in the present form (-a)
 
 **snora** 1. (n) book. 
 
-**mriilhii** 1. (n) peace. (an absent noun, since it is known by the absence of anything not peaceful)
+?? **mriilha** 1. (n) peace. (an absent noun, since it is known by the absence of anything not peaceful)
 
 **mlaida** 1. (n) silence. (a present noun, noise is the absence of silence)
 
 **zhada** 1. (n) darkness. (a present noun, since dark is the thing whose absence makes light)
+
+**lidha** 1. (n) cold.
 
 **nonhe** 1. (n) a living thing that wanders, a wanderer.
 
@@ -53,6 +55,9 @@ Give all adjectives and infixes in the present form (-a)
 
 **loma** 1. (n) east. (adj) eastern.
 
+**Naindha** 1. (n) story, tale.
+
+**metha** 1. (n) tree.
 
 ## Verbs
 **soli** 1. (v) to come from.
@@ -80,7 +85,6 @@ Give all adjectives and infixes in the present form (-a)
 
 **sha**  1. (gen. infix) the same, identical, equivalent, equal.
 
-**tha** 1. (adj, n. infix) having thought, intelligent. 2. (adj, n. infix), natural, of or relating to the natural world and the balance and cycles of nature.
 
 ## Grammatical Words
 **kae** 1. (conj) and.
@@ -97,12 +101,12 @@ Give all adjectives and infixes in the present form (-a)
 
 **mhii** 1. (n, adj) blue.
 
-**snhii** 1. (n, adj) purple.
+**snhii** 1. (n, adj) purple, violet.
 
-**nlii** 1. (n, adj) black.
+**nlii** 1. (n, adj) black. 2. dark, occult.
 
 **whii** 1. (n, adj) white.
 
-**lii** 1. (n, adj) grey.
+**lii** 1. (n, adj) grey. 2. lesser.
 
-**tshii** 1. (n, adj) brown.
+**tshii** 1. (n, adj) brown. 2. Dark purple, Indigo. 3. A dirty or composite colour. 4 (n). Something that cannot be known.

@@ -75,7 +75,7 @@ We don't have any roots for "peace" or "good" (or related terms) yet, so let's m
 
 **New Words:**
 
-**mriilhii** 1. (n) peace. (an absent noun, since it is known by the absence of anything not peaceful)
+**mriilha** 1. (n) peace.
 
 **zii** 1. (v) good.
 

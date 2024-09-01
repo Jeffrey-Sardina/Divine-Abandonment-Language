@@ -63,7 +63,7 @@ Infixes generally do not change stress when under 3 are used. However, when 3 or
 Pronouns do not make a gender distinction, but do make a *number* distinction in singular / plural. An inclusion / exclusion distinction is made in the first person (only). Third person pronouns belong to one of X classes:
 - living things (including plants, animals, etc. Ex tree, fish, elf)
 - present things (i.e. positive-presence words and some concrete nouns. Ex Rock, valley. Note that in many cases, things like darkness, silence emptiness, are present, not absent.)
-- absent things (i.e. words implying absence of what would be labelled as presence,. Ex light, noise, space / full-ness)
+- absent things (i.e. words implying absence of what would be labelled as presence. Ex light, noise, space / full-ness)
 
 In the plural, only the present-absent distinction is made (so there is no plural of living things -- those would generally be lumped into "present")
 
